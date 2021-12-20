@@ -24,6 +24,7 @@
 <br/>
   <div> 
   <a href=https://www.linkedin.com/in/vinicius-fernando-289b8a121" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
+</div>
+<div>
+  <div class="tenor-gif-embed" data-postid="14668491" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/zenitsu-zenitsu-agatsuma-demon-slayer-kimetsu-no-yaiba-gif-14668491">Zenitsu Zenitsu Agatsuma GIF</a>from <a href="https://tenor.com/search/zenitsu-gifs">Zenitsu GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
