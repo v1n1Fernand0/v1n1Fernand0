@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho com .Net C#
 - 🌱 Estudando GO lang
-- 😄 Pronouns: ele/dele
+- 😄 Pronome: ele/dele
 
 <div align="center">
   <a href="https://github.com/v1n1Fernand0">
